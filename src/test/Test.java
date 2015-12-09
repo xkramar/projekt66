@@ -18,6 +18,7 @@ public class Test {
         // TODO code application logic here
         // zmena
         // dalsia zmena tu
+        // zmena c.3
     }
     
 }
